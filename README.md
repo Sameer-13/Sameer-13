@@ -1,4 +1,4 @@
-### Hi, I'm Sameer Alsabea :full_moon_with_face:
+### Hi, I'm Sameer Alsabea
 
 
 
@@ -14,7 +14,7 @@
 </a>
 
 
-# :sparkles: About Me:
+# About Me:
 Interested and passionate in AI, ML and Computer Vision, as well as their applications in the Web:globe_with_meridians: , Mobile-App:iphone: and IoT:satellite: fields, in addition, I am a Flutter developer.
 
 # :computer: Tech Stack:
