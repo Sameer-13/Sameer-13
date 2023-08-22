@@ -17,9 +17,7 @@
 ## About Me:
 Interested and passionate in AI, ML and Computer Vision, as well as their applications in the Web:globe_with_meridians: , Mobile-App:iphone: and IoT:satellite: fields, in addition to being a Flutter developer.
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Sameer-13/Sameer-13/output/snake.svg" alt="Snake animation"/>
-
+![snake gif](https://github.com/Sameer-13/Sameer-13/blob/output/github-contribution-grid-snake.gif)
 
 
 ## :computer: Tech Stacks:
