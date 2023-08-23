@@ -1,6 +1,8 @@
 # Hi, I'm Sameer Alsabea
 
+
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/sameer-alsabea-610291239" target="_blank">
