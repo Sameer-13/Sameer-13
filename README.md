@@ -1,9 +1,5 @@
 # Hi, I'm Sameer Alsabea
 
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
-
-
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/sameer-alsabea-610291239" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -41,6 +37,13 @@ Interested and passionate in AI, ML and Computer Vision, as well as their applic
 ![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00878F&logo=Arduino&logoColor=FFFFFF&label=)
 
 ## 📊 GitHub Stats:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div>
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sameer-13&theme=dark&hide_border=false)
