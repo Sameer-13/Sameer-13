@@ -38,11 +38,13 @@ Interested and passionate in AI & ML, especially in Computer Vision and NLP, as 
 
 ## 📊 GitHub Stats:
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sameer-13/Sameer-13/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sameer-13/Sameer-13/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sameer-13/Sameer-13/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 <div>
   
