@@ -13,7 +13,7 @@
 
 
 ## About Me:
-Interested and passionate in AI & ML, especially in Computer Vision and NLP, as well as their applications in the Web, Mobile-App: and IoT fields, in addition to being a Flutter developer.
+Interested and passionate in AI & ML, especially in Computer Vision and NLP, as well as their applications in the Web, Mobile-App and IoT fields, in addition to being a Flutter developer.
 
 ## :computer: Tech Stacks:
 - **Programming Languages:**
