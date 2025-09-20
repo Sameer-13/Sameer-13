@@ -1,23 +1,29 @@
-# Hi, I'm Sameer Alsabea
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e14e315b-efe4-4b16-9e14-30844fe40ff7" width="240"/>
 
-## 🌐 Socials:
-<a href="https://www.linkedin.com/in/sameer-alsabea-610291239" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Sameer_Alsabea" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<!-- <a href="https://github.com/Sameer-13" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> -->
+  ### Hi, I'm Sameer Alsabea.
+  I'm an AI engineer passionate about **AI, machine learning, and building intelligent systems**.  
+  I love working on projects that bring together **data, code, and creativity** 🪄
 
+  #### My goal is simple: turn AI ideas into practical tools that make decision-making smarter and faster.
 
-## About Me:
-I am Sameer Alsabea, a Computer Engineering student at KFUPM university with a background in software development, computer networks, and embedded systems, and a specialization in Artificial Intelligence from KAUST university. 
-Beyond my academic background, I am experienced in designing and deploying advanced solutions in Artificial Intelligence (AI), Machine Learning (ML), and Data Science. 
-My work spans a range of AI-driven applications, including computer vision systems, large language model (LLM)-based solutions for process automation, retrieval-augmented generation (RAG) systems, reasoning engines, and multimodal architectures. 
-My goal is to build practical, data-driven tools that support intelligent decision-making across various domains.
+  #### Studied at:
+  <p>
+    <img src="https://github.com/user-attachments/assets/ebfbe143-abfb-4376-aa19-728ab65b137a" height="80" />
+    <img src="https://github.com/user-attachments/assets/2e89722d-9349-4aa9-845d-534393a4d5df" height="80" />
+  <p />
 
+  #### Interned at:
+  <p>
+    <img src="https://github.com/user-attachments/assets/40a507c2-c867-4b42-905e-fcc39d838985" height="80" />
+    <img src="https://github.com/user-attachments/assets/2e89722d-9349-4aa9-845d-534393a4d5df" height="80" />
+    <img src="https://github.com/user-attachments/assets/d86a9976-34a5-4de2-a6a7-5ba132721c79" height="80" />
+  <p />
+  
+  ## Find me on: [!["Follow me on X"](https://img.shields.io/twitter/follow/pr_Mais?label=Follow%20me)](https://x.com/Sameer_Alsabea) [!["Follow me on LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sameer-alsabea-610291239/)
+  
+</div>
+  
 ## :computer: Tech Stacks:
 - **Programming Languages:**
 
