@@ -5,7 +5,8 @@
   I'm an AI engineer passionate about **AI, machine learning, and building intelligent systems**.  
   I love working on projects that bring together **data, code, and creativity** 🪄
 
-  #### My goal is simple: turn AI ideas into practical tools that make decision-making smarter and faster.
+  #### My goal is simple: 
+  Turn AI ideas into practical tools that make decision-making smarter and faster.
 
   #### Studied at:
   <p>
@@ -20,7 +21,8 @@
     <img src="https://github.com/user-attachments/assets/d86a9976-34a5-4de2-a6a7-5ba132721c79" height="80" />
   <p />
   
-  ## Find me on: [!["Follow me on X"](https://img.shields.io/twitter/follow/pr_Mais?label=Follow%20me)](https://x.com/Sameer_Alsabea) [!["Follow me on LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sameer-alsabea-610291239/)
+  #### Find me on: 
+  [!["Follow me on X"](https://img.shields.io/twitter/follow/pr_Mais?label=Follow%20me)](https://x.com/Sameer_Alsabea) [!["Follow me on LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sameer-alsabea-610291239/)
   
 </div>
   
