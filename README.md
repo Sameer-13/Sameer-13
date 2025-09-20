@@ -13,7 +13,10 @@
 
 
 ## About Me:
-Interested and passionate in AI & ML, especially in Computer Vision and NLP, as well as their applications in the Web, Mobile-App and IoT fields, in addition to being a Flutter developer.
+I am Sameer Alsabea, a Computer Engineering student at KFUPM university with a background in software development, computer networks, and embedded systems, and a specialization in Artificial Intelligence from KAUST university. 
+Beyond my academic background, I am experienced in designing and deploying advanced solutions in Artificial Intelligence (AI), Machine Learning (ML), and Data Science. 
+My work spans a range of AI-driven applications, including computer vision systems, large language model (LLM)-based solutions for process automation, retrieval-augmented generation (RAG) systems, reasoning engines, and multimodal architectures. 
+My goal is to build practical, data-driven tools that support intelligent decision-making across various domains.
 
 ## :computer: Tech Stacks:
 - **Programming Languages:**
