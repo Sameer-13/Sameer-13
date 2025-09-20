@@ -60,5 +60,8 @@
 <!-- Total commits, stars, etc. -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sameer-13&theme=dark&hide_border=false)
 
+## Publications:
+TBD...
 
-
+## Projects:
+TBD...
