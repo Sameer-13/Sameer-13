@@ -5,7 +5,7 @@
   I'm an AI engineer passionate about **AI, machine learning, and building intelligent systems**.  
   I love working on projects that bring together **data, code, and creativity** 🪄
 
-  #### My goal is simple: 
+  ### My goal is simple: 
   Turn AI ideas into practical tools that make decision-making smarter and faster.
 
   #### Studied at:
