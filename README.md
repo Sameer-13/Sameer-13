@@ -10,15 +10,15 @@
 
   #### Studied at:
   <p>
-    <img src="https://github.com/user-attachments/assets/ebfbe143-abfb-4376-aa19-728ab65b137a" height="80" />
-    <img src="https://github.com/user-attachments/assets/2e89722d-9349-4aa9-845d-534393a4d5df" height="80" />
+    <img src="https://github.com/user-attachments/assets/ebfbe143-abfb-4376-aa19-728ab65b137a" height="60" />
+    <img src="https://github.com/user-attachments/assets/2e89722d-9349-4aa9-845d-534393a4d5df" height="60" />
   <p />
 
   #### Interned at:
   <p>
-    <img src="https://github.com/user-attachments/assets/40a507c2-c867-4b42-905e-fcc39d838985" height="80" />
-    <img src="https://github.com/user-attachments/assets/2e89722d-9349-4aa9-845d-534393a4d5df" height="80" />
-    <img src="https://github.com/user-attachments/assets/d86a9976-34a5-4de2-a6a7-5ba132721c79" height="80" />
+    <img src="https://github.com/user-attachments/assets/40a507c2-c867-4b42-905e-fcc39d838985" height="60" />
+    <img src="https://github.com/user-attachments/assets/2e89722d-9349-4aa9-845d-534393a4d5df" height="60" />
+    <img src="https://github.com/user-attachments/assets/d86a9976-34a5-4de2-a6a7-5ba132721c79" height="60" />
   <p />
   
   #### Find me on: 
