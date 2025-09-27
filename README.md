@@ -75,4 +75,11 @@
 - [ALARB: An Arabic Legal Argument Reasoning Benchmark](https://openreview.net/pdf?id=khdwxam2lQ)
 
 ## Projects:
-TBD...
+- [ChartWise: AI Business Analysis Assistance](https://github.com/Sameer-13/ChartWise)
+- [AI Football Injury Prediction System](https://github.com/Sameer-13/AI_Football_Injury_Prediction_System)
+- [KFUPM Student Application](https://github.com/Sameer-13/KFUPM-Student-Application)
+- [Chess Winner Predictor](https://github.com/Sameer-13/Chess_Winner_Predictor)
+- [Bus Station RFID Monitoring System](https://github.com/Sameer-13/Bus-Station-RFID-Monitoring-System)
+- [16-Bit-Pipelined-Processor](https://github.com/Sameer-13/16-Bit-Pipelined-Processor-Design)
+- [vllm-hf-local](https://github.com/Sameer-13/vllm-hf-local)
+- [Self Balancing Robot](https://github.com/Sameer-13/Self-Balancing-Robot)
