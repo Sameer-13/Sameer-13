@@ -68,7 +68,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sameer-13&theme=dark&hide_border=false)
 
 ## Publications:
-TBD...
+- [ALARB: An Arabic Legal Argument Reasoning Benchmark](https://openreview.net/pdf?id=khdwxam2lQ)
 
 ## Projects:
 TBD...
