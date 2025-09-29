@@ -30,26 +30,26 @@
 
 - **Programming Languages:**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=protocols.io&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+  ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=protocols.io&logoColor=white)
 
 - **AI & ML:**
 
   - **Data Science & ML Libraries:**
   
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4E9A06?style=flat&logo=python&logoColor=white) ![AWS Athena](https://img.shields.io/badge/AWS%20Athena-232F3E?logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GDC_Buckets-4285F4?logo=google-cloud&logoColor=white)
+    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4E9A06?style=flat&logo=python&logoColor=white) ![AWS Athena](https://img.shields.io/badge/AWS%20Athena-232F3E?logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GDC_Buckets-4285F4?logo=google-cloud&logoColor=white)
   
   
   - **Deep Learning Frameworks/Libraries:** 
   
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black) ![EasyOCR](https://img.shields.io/badge/EasyOCR-231F20?style=flat&logo=python&logoColor=white)
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black) ![EasyOCR](https://img.shields.io/badge/EasyOCR-231F20?style=flat&logo=python&logoColor=white)
   
   - **LLm, RAG, and Aegntic Frameworks/Libraries:**
   
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)  ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)  ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-FF4B4B?style=flat&logo=opensourceinitiative&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFAE00?style=flat&logo=huggingface&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)  ![Letta](https://img.shields.io/badge/Letta-FF5733?style=flat&logo=letta&logoColor=white) ![DeepEval](https://img.shields.io/badge/DeepEval-6C47FF?style=flat&logo=pytest&logoColor=white) ![Chroma](https://img.shields.io/badge/Chroma-00C9A7?style=flat&logo=postgresql&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-2C2C2C?style=flat&logo=database&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-0086FF?style=flat&logo=livekit&logoColor=white)
+    ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)  ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)  ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-FF4B4B?style=flat&logo=opensourceinitiative&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFAE00?style=flat&logo=huggingface&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)  ![Letta](https://img.shields.io/badge/Letta-FF5733?style=flat&logo=letta&logoColor=white) ![DeepEval](https://img.shields.io/badge/DeepEval-6C47FF?style=flat&logo=pytest&logoColor=white) ![Chroma](https://img.shields.io/badge/Chroma-00C9A7?style=flat&logo=postgresql&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-2C2C2C?style=flat&logo=database&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-0086FF?style=flat&logo=livekit&logoColor=white)
 
   - **Deployment and HPC:**
    
@@ -57,14 +57,14 @@
   
 - **Mobile Development:**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 - **Embedded System Development:**
 
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![LPC1768](https://img.shields.io/badge/LPC1768-002E6D?style=flat&logo=nxp&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+  ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+  ![LPC1768](https://img.shields.io/badge/LPC1768-002E6D?style=flat&logo=nxp&logoColor=white)
 
 ## 📊 GitHub Stats:
 
