@@ -38,7 +38,7 @@
 
 - **AI & ML:**
 
-  - **Data Science & ML Libraries:**
+  - **Data Science Libraries/Tools:**
   
     ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4E9A06?style=flat&logo=python&logoColor=white) ![AWS Athena](https://img.shields.io/badge/AWS%20Athena-232F3E?logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GDC_Buckets-4285F4?logo=google-cloud&logoColor=white)
   
@@ -53,7 +53,8 @@
 
   - **Deployment and HPC:**
    
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Slurm](https://img.shields.io/badge/Slurm-2B2B2B?logo=slurm&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+    <!--![Slurm](https://img.shields.io/badge/Slurm-2B2B2B?logo=slurm&logoColor=white)-->
   
 - **Mobile Development:**
 
