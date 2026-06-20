@@ -14,7 +14,7 @@
     <img src="https://github.com/user-attachments/assets/2e89722d-9349-4aa9-845d-534393a4d5df" height="60" />
   <p />
 
-  #### Interned at:
+  #### Worked at:
   <p>
     <img src="https://github.com/user-attachments/assets/40a507c2-c867-4b42-905e-fcc39d838985" height="60" />
     <img src="https://github.com/user-attachments/assets/2e89722d-9349-4aa9-845d-534393a4d5df" height="60" />
